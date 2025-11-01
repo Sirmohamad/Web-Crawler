@@ -41,12 +41,13 @@ save website content, capable of being used with any website structure.
 ## Input Parameters
 
   ---------------------------------------------------------------------------------
-  Parameter               Description                  Default
+  Parameter               Description                  
   ----------------------- ---------------------------- ----------------------------
-  `Url`                   Target website address for   `https://www.example.com/`
-                          crawling                     
+  `Url`                   Target website address for   
+                          crawling. If not provided,
+                          default to `https://www.example.com/`.                     
 
-  `SectionId`             Custom HTML element ID to    Not required
+  `SectionId`             Custom HTML element ID to   
                           target. If not provided:     
                           `<br>`{=html}• If            
                           `TargetElementId` disabled → 
@@ -55,9 +56,8 @@ save website content, capable of being used with any website structure.
                           Only predefined target       
                           elements scanned             
 
-  `MaxDepth`              Can be customized
-                          recursion depth 
-                          for crawling. 
+  `MaxDepth`              Maximum recursion depth for  
+                          crawling. Can be customized. 
                           If not set, defaults to      
                           **10**                       
   ---------------------------------------------------------------------------------
