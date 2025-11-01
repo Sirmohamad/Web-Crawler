@@ -47,14 +47,10 @@ save website content, capable of being used with any website structure.
                           crawling. If not provided,
                           default to `https://www.example.com/`.                     
 
-  `SectionId`             Custom HTML element ID to   
-                          target. If not provided:     
-                          `<br>`{=html}• If            
-                          `TargetElementId` disabled → 
-                          Full-page crawl              
-                          `<br>`{=html}• If enabled →  
-                          Only predefined target       
-                          elements scanned             
+  `SectionId`             The ID of the element you want.
+                          If not entered, if TargetElementId is disabled,
+                          it will crawl the entire page,
+                          and if enabled, it will crawl the same predefined elements.             
 
   `MaxDepth`              Maximum recursion depth for  
                           crawling. Can be customized. 
