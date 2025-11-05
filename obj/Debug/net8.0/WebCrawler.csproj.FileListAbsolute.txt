@@ -1,0 +1,17 @@
+C:\Users\MAX\Desktop\Web-Scraper\bin\Debug\net8.0\WebCrawler.exe
+C:\Users\MAX\Desktop\Web-Scraper\bin\Debug\net8.0\WebCrawler.deps.json
+C:\Users\MAX\Desktop\Web-Scraper\bin\Debug\net8.0\WebCrawler.runtimeconfig.json
+C:\Users\MAX\Desktop\Web-Scraper\bin\Debug\net8.0\WebCrawler.dll
+C:\Users\MAX\Desktop\Web-Scraper\bin\Debug\net8.0\WebCrawler.pdb
+C:\Users\MAX\Desktop\Web-Scraper\bin\Debug\net8.0\AngleSharp.dll
+C:\Users\MAX\Desktop\Web-Scraper\obj\Debug\net8.0\WebCrawler.csproj.AssemblyReference.cache
+C:\Users\MAX\Desktop\Web-Scraper\obj\Debug\net8.0\WebCrawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAX\Desktop\Web-Scraper\obj\Debug\net8.0\WebCrawler.AssemblyInfoInputs.cache
+C:\Users\MAX\Desktop\Web-Scraper\obj\Debug\net8.0\WebCrawler.AssemblyInfo.cs
+C:\Users\MAX\Desktop\Web-Scraper\obj\Debug\net8.0\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\MAX\Desktop\Web-Scraper\obj\Debug\net8.0\WebCrawler.csproj.Up2Date
+C:\Users\MAX\Desktop\Web-Scraper\obj\Debug\net8.0\WebCrawler.dll
+C:\Users\MAX\Desktop\Web-Scraper\obj\Debug\net8.0\refint\WebCrawler.dll
+C:\Users\MAX\Desktop\Web-Scraper\obj\Debug\net8.0\WebCrawler.pdb
+C:\Users\MAX\Desktop\Web-Scraper\obj\Debug\net8.0\WebCrawler.genruntimeconfig.cache
+C:\Users\MAX\Desktop\Web-Scraper\obj\Debug\net8.0\ref\WebCrawler.dll
